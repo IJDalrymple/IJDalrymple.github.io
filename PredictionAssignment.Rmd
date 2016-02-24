@@ -4,14 +4,7 @@ author: "Iain Dalrymple"
 date: "Tuesday, February 23, 2016"
 output: html_document
 ---
-
----
-title: "Prediction Assignment"
-author: "Iain Dalrymple"
-date: "Monday, February 22, 2016"
-output: pdf_document
----
-
+ 
 # Introduction
 The goal of this data analysis is to predict the manner in which participants in a study did exercise, which is to say how well they did it. The training data set can be downloaded [here](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv) and the small test set of 20 samples to be evaluated can be downloaded [here](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv).  
 
